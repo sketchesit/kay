@@ -1,7 +1,7 @@
 const quotes = {
    in the direction of your dreams.  Live the life you have imagined."',
    
-    "- Booker T. Washington": CCR0VC3QBP991
+    "- Booker T. Washington": CCR0VC3QBP991,
 }
 
 document.getElementById('generate').addEventListener('click', () => {
